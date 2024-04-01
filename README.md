@@ -1,4 +1,4 @@
-### 안녕하세요 웹 공부하는 조현우 입니다.😃
+### 안녕하세요 웹 공부하는 떤밀 입니다.😃
 
 <!--
 **ttunmill/ttunmill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
