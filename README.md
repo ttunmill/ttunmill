@@ -1,10 +1,11 @@
 ### 안녕하세요 웹 공부하는 떤밀 입니다.😃
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttunmill&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttunmill&layout=compact&theme=dark)
-<!-- 출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀:티스토리] -->
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttunmill&show_icons=true&theme=dark)
+  #
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttunmill&layout=compact&theme=dark)
+  <!-- 출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀:티스토리] -->
+</div>
 
 <!--
 **ttunmill/ttunmill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
