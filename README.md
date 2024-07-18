@@ -1,7 +1,7 @@
 # 안녕하세요 웹 공부하는 떤밀 입니다.
 <div>
   <h3>2024 포트폴리오</h3>
-  <a href="https://ttunmi11.netlify.app/" target="_blank">사이트 보기</a>
+  <a href="https://ttunmi11.netlify.app/" target="_blank">🔗사이트 보기</a>
 </div>
 <hr>
 
